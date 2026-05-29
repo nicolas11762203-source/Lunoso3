@@ -1,0 +1,85 @@
+h1{
+    color: rgb(255, 0, 0);
+font-size: small 36px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+text-shadow: 10px 10px 6px rgb(0, 0, 0);
+text-align: center;
+}
+img{
+width:800px ;
+height: 500px;
+margin-bottom: 20px;
+margin: auto;
+display: block;
+}
+
+h2{
+  margin-bottom: 1px;
+    text-align: center;
+    color: blueviolet;
+}
+
+#p1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-indent: 20px;
+    line-height: 20px;
+    color: rgb(255, 0, 0);
+border: 5px solid black;
+text-shadow: 10px 10px 5px rgb(0, 0, 0);
+
+}
+
+#t2{
+
+    margin-bottom: 10px;   
+font-style: italic;
+font-size: medium 18px;
+text-align: justify;
+color: rgb(231, 19, 19);
+border: 5px solid black;
+box-shadow: 10px;
+border-radius: 100px 100px 100px 100px;
+text-align: center;
+text-shadow: 10px 10px 5px black;
+font-size: larger;
+}
+
+#t3{
+    margin-bottom: 10px;
+    
+    color: rgb(224, 23, 23);
+letter-spacing: 1dv;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+border: 5px solid black;
+border-radius: 50px;
+text-align: center;
+font-size: larger;
+text-shadow: 10px 10px 5px black;
+}
+
+#t4{
+margin-bottom: 10px;
+   font-style: italic;
+   text-shadow: 10px;
+   font-size: small; 
+   color: rgb(255, 0, 0);
+   border: 5px solid black;
+   text-align: center;
+   border-radius: 50px;
+font-size: larger;
+text-shadow: 10px 10px 5px black;
+}
+body{
+background-color: rgb(26, 26, 25);
+
+}
+div{
+
+width: 800px;
+margin: auto;
+display: block;
+}
+
